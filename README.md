@@ -1,2 +1,2 @@
 # developermacos
-bash profile for a developer
+~/.bash_profile for a developer
